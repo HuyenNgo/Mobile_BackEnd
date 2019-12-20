@@ -1,0 +1,19 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "devDependencies": {
+    "alertify": "^0.3.0",
+    "alertify.js": "^1.0.12",
+    "angular-chart": "^0.5.0",
+    "checklist-model": "^1.0.0",
+    "ckeditor": "^4.9.2",
+    "install": "^0.12.1",
+    "jquery-ui": "^1.12.1",
+    "jquery-validation": "^1.18.0",
+    "mustache": "^3.0.0",
+    "ng-ckeditor": "^2.0.5",
+    "ngbootbox": "^0.2.0",
+    "npm": "^6.4.1",
+    "numerical": "^0.2.4"
+  }
+}
